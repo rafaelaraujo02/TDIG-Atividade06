@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+	<head>
+		<title>Atividade 06</title>
+		<style>
+			body{
+				
+				background-color:#A9A9A9;
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1><p align="center">Universidade Estadual da Paraíba</p></h1>
+		<h2><p align="center">Tecnologia de Desenvolvimento de Interface Gráfica</p></h2>
+		
+		<p><b> Introdução </b> </p>
+		<p><b> Acessibilidade e a constituição </b> </p>
+		<p><b> Lei brasileira de acessibilidade </b> </p>
+		<p><b> Diretrizes de acessibilidade na web </b> </p>
+		
+		<p align="center"> <b> <br>Introdução</br> </b> </p>
+		<p> No Brasil exitem dois marcos legais que caracterizam a busca por acessibilidade: A constituição federal de 1988 e a Lei Brasileira de Inclusão (LBI) de 2015. (LEI 13.146/2015)
+			A constituição traça os parâmetros gerais e a LBI específica e amplia os pontos que direcionam não só aspectos da acessibilidade mas da própria inclusão.
+		</p>
+		
+		<p align="center"> <b> <br>Acessibilidade e a constituição</br> </b> </p>
+		<p> Nossa primeira aliada na promoção da acessibilidade na Web é, certamente, a Constituição Federal de 1988. Em seu Título I, Dos Princípios Fundamentais, a cidadania e a dignidade da pessoa humana estão incluídas entre os fundamentos do Estado democrático de direito. Além  disso,  estabelece,  entre  os  objetivos  fundamentais  da  República,  a  construção  de uma  sociedade  livre,  justa  e  solidária,  a  redução  das  desigualdades  sociais,  assim  como a  promoção  do  bem  de  todos,  sem  preconceitos.
+
+		</p>
+		
+		<p align="center"> <b> <br>Lei brasileira de acessibilidade</br> </b> </p>
+		<p> Um grande avanço com relação aos direitos da pessoa com deficiência foi a Lei no 13.146, Lei Brasileira de Inclusão da Pessoa com Deficiência, sancionada em 6 de julho de 2015, destinada a:
+			“assegurar e a promover, em condições de igualdade, o exercício dos direitos e das liberdades fundamentais por pessoa com deficiência, visando à sua inclusão social e cidadania” [13]. O documento conta com um capítulo dedicado exclusivamente ao acesso à informação e à comunicação e um artigo que aborda a acessibilidade pelos sítios web no Brasil.
+
+		</p>
+		
+		<p align="center"> <b> <br>Diretrizes de acessibilidade na web</br> </b> </p>
+		<p> As diretrizes internacionais de acessibilidade são desenvolvidas pela Iniciativa para a Acessibilidade na Web (WAI – Web Accessibility Initiative), do W3C [14], criada em 1997, três anos depois da fundação do consórcio. 
+			A WAI é formada por grupos de trabalho que desenvolvem – em parceria com a indústria, organizações para pessoas com deficiência, governos, organizações de pesquisa em acessibilidade etc.– estratégias, recomendações, diretrizes e recursos para ajudar a tornar a Web mais acessível para as pessoas com deficiência e mobilidade reduzida.
+
+		</p>
+		
+	</body>
+</html>
